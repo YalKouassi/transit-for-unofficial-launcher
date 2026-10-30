@@ -16,6 +16,7 @@ publisher = "Derek Wright"
 bundle_id = "dev.derekmwright.transit"   # upstream's Flatpak id and CFBundleIdentifier
 msi_publisher = "Derek Wright"           # Manufacturer in upstream's MSI
 website = "https://github.com/transit-audio/transit"
+web_demo = "https://playground.daijro.dev/head/transit/"   # playground.daijro.dev's build of upstream's latest commit
 color = "#4cb1f0"
 
 [icon]
